@@ -1,0 +1,13 @@
+/*@keyframes yesrico {
+    from {position:;}
+    to {top};
+}*/
+
+body {
+    background-color: black;
+}
+
+.yesrico {
+    background-color: #42e900;
+    text-align: center;
+}
