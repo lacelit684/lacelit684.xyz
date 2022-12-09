@@ -27,15 +27,15 @@ h2 {
     font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
     font-weight: bold;
     text-align: left;
-    padding-left: 30%;
-    padding-right: 30%;
+    padding-left: 25%;
+    padding-right: 25%;
     padding: top 10px bottom 10px;
     text-shadow: 3px 3px #171717;
 }
 
 p {
-    padding-left: 30%;
-    padding-right: 30%;
+    padding-left: 25%;
+    padding-right: 25%;
     font-weight: lighter;
     font-family: Verdana, Geneva, Tahoma, sans-serif;
     text-shadow: 1px 1px #171717;
@@ -68,3 +68,13 @@ p {
 .wavy {
     animation: 5s ease-in-out 0s infinite both alternate running wavytext;
 }*/
+
+.content-div {
+    display: block;
+    padding-left: 20%;
+    padding-right: 20%;
+    color: #171717;
+    /*color: #17171750;*/
+    -webkit-backdrop-filter: blur(10px);
+    backdrop-filter: blur(10px);
+}
