@@ -12,6 +12,7 @@ h1,.named {
     font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
     font-weight: bolder;
     padding: top 30px bottom 30px;
+    text-shadow: 6px 6px #171717;
 }
 
 h1 {
@@ -19,20 +20,25 @@ h1 {
     font-weight: bold;
     padding: top 10px bottom 20px;
     text-align: center;
+    text-shadow: 6px 6px #171717;
 }
 
 h2 {
     font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
     font-weight: bold;
     text-align: left;
-    padding-left: 25%;
-    padding-right: 25%;
+    padding-left: 30%;
+    padding-right: 30%;
     padding: top 10px bottom 10px;
+    text-shadow: 3px 3px #171717;
 }
 
 p {
-    padding-left: 25%;
+    padding-left: 30%;
+    padding-right: 30%;
     font-weight: lighter;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    text-shadow: 1px 1px #171717;
 }
 
 .center-img {
@@ -44,9 +50,21 @@ p {
 }
 
 .footer {
-    text-align: center;
     color:darkgray;
     font-size: x-small;
     padding-top: 30px;
-    padding-left: 0% !important;
 }
+
+/*.center-div {
+    text-align: center;
+    margin: auto auto auto auto;
+}
+
+@keyframes wavytext {
+    from {position: relative; top: 5px};
+    to {position: relative; top: 5px}
+}
+
+.wavy {
+    animation: 5s ease-in-out 0s infinite both alternate running wavytext;
+}*/
