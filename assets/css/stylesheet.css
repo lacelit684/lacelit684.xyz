@@ -38,8 +38,8 @@ h1 {
     font-weight: bold;
     padding: top 10px bottom 20px;
     text-align: center;
-    text-shadow: 6px 6px #2e2e2e;
-    text-shadow: 6px 6px #2e2e2e5d;
+    text-shadow: 6px 6px #2e2e2e 3px;
+    text-shadow: 6px 6px #2e2e2e5d 3px;
 }
 
 h2 {
@@ -48,8 +48,8 @@ h2 {
     padding-left: 15%;
     padding-right: 15%;
     padding: top 10px bottom 10px;
-    text-shadow: 3px 3px #2e2e2e;
-    text-shadow: 3px 3px #2e2e2e5d;
+    text-shadow: 3px 3px #2e2e2e 1.5px;
+    text-shadow: 3px 3px #2e2e2e5d 1.5px;
 }
 
 h3 {
@@ -57,8 +57,8 @@ h3 {
     padding-left: 15%;
     padding-right: 15%;
     padding: top 10px bottom 5px;
-    text-shadow: 2px 2px #2e2e2e;
-    text-shadow: 2px 2px #2e2e2e5d;
+    text-shadow: 2px 2px #2e2e2e 1px;
+    text-shadow: 2px 2px #2e2e2e5d 1px;
 }
 
 p {
@@ -66,8 +66,8 @@ p {
     padding-right: 15%;
     font-weight: lighter;
     font-family: Verdana, Geneva, Tahoma, sans-serif;
-    text-shadow: 1px 1px #2e2e2e;
-    text-shadow: 1px 1px #2e2e2e5d;
+    text-shadow: 1px 1px #2e2e2e 0.5px;
+    text-shadow: 1px 1px #2e2e2e5d 0.5px;
 }
 
 ul {
@@ -75,8 +75,8 @@ ul {
     padding-right: 15%;
     font-weight: lighter;
     font-family: Verdana, Geneva, Tahoma, sans-serif;
-    text-shadow: 1px 1px #2e2e2e;
-    text-shadow: 1px 1px #2e2e2e5d;
+    text-shadow: 1px 1px #2e2e2e 0.5px;
+    text-shadow: 1px 1px #2e2e2e5d 0.5px;
 }
 
 .center-img {
