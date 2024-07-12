@@ -1,5 +1,4 @@
-# [lacelit684.github.io](https://lacelit684.github.io)
-Q: What is this?
-A: My personal website.
+# [lacelit684.xyz](https://lacelit684.xyz)
 
-That is all, thank you.
+[Alternate link](https://lacelit684.github.io)<br>
+This is my personal website. My friend is kindly paying for the .xyz domain. Feel free to visit, but I cannot guarantee currentness.
